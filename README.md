@@ -9,3 +9,4 @@ OR
 [Task_Name].exe add \\;\\1;2;5
 OR
 [Task_Name].exe multiply 3,4
+Kindly ignore the Calculator project with Calculator class library as it is in no way relevant to any of the task, I created it with some other workflow in mind but then I decided to follow different workflow.
