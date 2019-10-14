@@ -1,0 +1,10 @@
+C:\Users\Aamir\Desktop\C# Coding Test Eastern Enterprises\Aamir Salaam Tasks Solutions\Task_8\bin\Debug\Task_8.exe.config
+C:\Users\Aamir\Desktop\C# Coding Test Eastern Enterprises\Aamir Salaam Tasks Solutions\Task_8\bin\Debug\Task_8.exe
+C:\Users\Aamir\Desktop\C# Coding Test Eastern Enterprises\Aamir Salaam Tasks Solutions\Task_8\bin\Debug\Task_8.pdb
+C:\Users\Aamir\Desktop\C# Coding Test Eastern Enterprises\Aamir Salaam Tasks Solutions\Task_8\bin\Debug\Task_1.exe
+C:\Users\Aamir\Desktop\C# Coding Test Eastern Enterprises\Aamir Salaam Tasks Solutions\Task_8\bin\Debug\Task_1.pdb
+C:\Users\Aamir\Desktop\C# Coding Test Eastern Enterprises\Aamir Salaam Tasks Solutions\Task_8\bin\Debug\Task_1.exe.config
+C:\Users\Aamir\Desktop\C# Coding Test Eastern Enterprises\Aamir Salaam Tasks Solutions\Task_8\obj\Debug\Task_8.csproj.CoreCompileInputs.cache
+C:\Users\Aamir\Desktop\C# Coding Test Eastern Enterprises\Aamir Salaam Tasks Solutions\Task_8\obj\Debug\Task_8.csproj.CopyComplete
+C:\Users\Aamir\Desktop\C# Coding Test Eastern Enterprises\Aamir Salaam Tasks Solutions\Task_8\obj\Debug\Task_8.exe
+C:\Users\Aamir\Desktop\C# Coding Test Eastern Enterprises\Aamir Salaam Tasks Solutions\Task_8\obj\Debug\Task_8.pdb

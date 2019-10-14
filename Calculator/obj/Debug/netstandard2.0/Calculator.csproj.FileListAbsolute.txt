@@ -1,0 +1,8 @@
+C:\Users\Aamir\Desktop\C# Coding Test Eastern Enterprises\Aamir Salaam Tasks Solutions\Calculator\bin\Debug\netstandard2.0\Calculator.deps.json
+C:\Users\Aamir\Desktop\C# Coding Test Eastern Enterprises\Aamir Salaam Tasks Solutions\Calculator\bin\Debug\netstandard2.0\Calculator.dll
+C:\Users\Aamir\Desktop\C# Coding Test Eastern Enterprises\Aamir Salaam Tasks Solutions\Calculator\bin\Debug\netstandard2.0\Calculator.pdb
+C:\Users\Aamir\Desktop\C# Coding Test Eastern Enterprises\Aamir Salaam Tasks Solutions\Calculator\obj\Debug\netstandard2.0\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Aamir\Desktop\C# Coding Test Eastern Enterprises\Aamir Salaam Tasks Solutions\Calculator\obj\Debug\netstandard2.0\Calculator.AssemblyInfoInputs.cache
+C:\Users\Aamir\Desktop\C# Coding Test Eastern Enterprises\Aamir Salaam Tasks Solutions\Calculator\obj\Debug\netstandard2.0\Calculator.AssemblyInfo.cs
+C:\Users\Aamir\Desktop\C# Coding Test Eastern Enterprises\Aamir Salaam Tasks Solutions\Calculator\obj\Debug\netstandard2.0\Calculator.dll
+C:\Users\Aamir\Desktop\C# Coding Test Eastern Enterprises\Aamir Salaam Tasks Solutions\Calculator\obj\Debug\netstandard2.0\Calculator.pdb
